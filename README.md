@@ -1,4 +1,3 @@
-# active-directory-lab-base
 # 🖥️ Active Directory Home Lab — Josh Madakor
 
 Laboratório prático de Active Directory baseado no tutorial do [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI), com foco na construção de um ambiente corporativo simulado do zero usando VirtualBox.
@@ -105,7 +104,7 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 | Etapa | Print |
 |---|---|
 | Diagrama do esquema de rede | ![Diagrama](evidencias/DESENHO_DO_ESQUEMA_DE_REDE_E_CONFIGURAÇÃO.png) |
-| Adaptadores de rede identificados | ![Adaptadores](evidencias/ADAPTADORES DE REDE IDENTIFICADOS.png) |
+| Adaptadores de rede identificados | ![Adaptadores](evidencias/ADAPTADORES_DE_REDE_IDENTIFICADOS.png) |
 | DC configurado no Server Manager | ![DC](evidencias/DC_.png) |
 | Routing and Remote Access (NAT) | ![RAS](evidencias/ROUTING_E_REMOTE_ACCESS.png) |
 | DHCP configurado com escopo | ![DHCP](evidencias/DHCP_CONFIGURADO.png) |
