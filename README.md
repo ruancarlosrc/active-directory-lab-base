@@ -105,7 +105,7 @@ foreach ($n in $USER_FIRST_LAST_LIST) {
 | Etapa | Print |
 |---|---|
 | Diagrama do esquema de rede | ![Diagrama](evidencias/DESENHO_DO_ESQUEMA_DE_REDE_E_CONFIGURAÇÃO.png) |
-| Adaptadores de rede identificados | ![Adaptadores](evidencias/ADAPTADORES_DE_REDE_IDENTIFICADOS.png) |
+| Adaptadores de rede identificados | ![Adaptadores](evidencias/ADAPTADORES DE REDE IDENTIFICADOS.png) |
 | DC configurado no Server Manager | ![DC](evidencias/DC_.png) |
 | Routing and Remote Access (NAT) | ![RAS](evidencias/ROUTING_E_REMOTE_ACCESS.png) |
 | DHCP configurado com escopo | ![DHCP](evidencias/DHCP_CONFIGURADO.png) |
